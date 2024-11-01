@@ -11,9 +11,6 @@
   <a href="https://www.instagram.com/panav_shah/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="panav.shah@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
 </div>
 
 ### :man_technologist: About Me :
@@ -47,7 +44,7 @@ I am going to fill this up later
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PanavShah1)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanavShah1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanavShah1&layout=compact&theme=onedark)
 
 
 
