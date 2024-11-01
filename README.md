@@ -1,6 +1,5 @@
 ## Hi there! I'm Panav Shah 👋
 
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -13,10 +12,10 @@
   </a>
 </div>
 
-### :man_technologist: About Me :
-I am going to fill this up later
+## :man_technologist: About Me :
+Too lazy to fill this up now
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" title="Firebase" alt="Firebase"/>&nbsp;
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"/>&nbsp;
@@ -42,7 +41,7 @@ I am going to fill this up later
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" title="SciPy" alt="SciPy"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+## :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PanavShah1)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanavShah1&layout=compact&theme=onedark)
 
