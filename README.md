@@ -16,7 +16,17 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=PanavShah1&style=flat-square&color=blue" alt=""/>
+### :man_technologist: About Me :
+I am ...
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+
+<!-- <img src="https://komarev.com/ghpvc/?username=PanavShah1&style=flat-square&color=blue" alt=""/> -->
+
 
 
 <!--
