@@ -17,7 +17,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am ...
+I am going to fill this up later
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -43,9 +43,11 @@ I am ...
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" title="PyTorch" alt="PyTorch"/>&nbsp;
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="scikit-learn" alt="scikit-learn"/>&nbsp;
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" title="SciPy" alt="SciPy"/>&nbsp;
-
-  
 </div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?PanavShah1&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 
