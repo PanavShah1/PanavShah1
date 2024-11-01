@@ -46,7 +46,7 @@ I am going to fill this up later
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?PanavShah1&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PanavShah1)](https://git.io/streak-stats)
 
 
 
