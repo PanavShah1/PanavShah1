@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there! I'm Panav Shah 👋
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -14,6 +15,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=PanavShah1&style=flat-square&color=blue" alt=""/>
+
 
 <!--
 **PanavShah1/PanavShah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
