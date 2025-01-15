@@ -42,8 +42,10 @@ Too lazy to fill this up now
 </div>
 
 ## :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PanavShah1)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanavShah1&layout=compact&theme=onedark)
+<br>
+![Visitor Count](https://profile-counter.glitch.me/PanavShah1/count.svg)
+
 
 
 
